@@ -1,4 +1,4 @@
-# 💫 About Me: 
+# 💫 About Me:
 🔭 I’m currently working on web applications and experimenting with data-centric projects.<br><br>👯 I’m looking to collaborate on hackathons, open-source contributions, and impactful student projects.<br><br>🤝 I’m looking for help with advanced development practices and scalable application design.<br><br>🌱 I’m currently learning Data Science, Full-Stack Development, and problem-solving through DSA.<br><br>⚡ Fun fact: My favorite type of project is the one that starts with "This should be too hard, So lets do it..." 😅
 
 
